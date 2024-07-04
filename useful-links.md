@@ -1,5 +1,5 @@
 # Useful Links
-Below is a list of links that are useful to onboarding new Software Developers to the SFD team all in one place. Most of these are mentioned throughout this onboarding guide, some are not but will be useful to have regardless.
+Below is a list of links that are useful to onboarding new software developers to the SFD team. Most of these are mentioned throughout the guide, some are not but will be useful to have regardless.
 - [ffc-sfd-core](https://github.com/defra/ffc-sfd-core): For making local development easier.
 - [ffc-azure-service-bus-scripts](https://github.com/defra/ffc-azure-service-bus-scripts): For provisioning Azure Service Bus infrastructure to be used for local development.
 - [yq](https://github.com/mikefarah/yq): A lightweight and portable command-line YAML, JSON, and XML processor. Needed to run commands from the [ffc-azure-service-bus-scripts](https://github.com/defra/ffc-azure-service-bus-scripts) repository.
